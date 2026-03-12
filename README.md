@@ -1,13 +1,14 @@
-# GDS Tutorial 2025
+# GDS Tutorial 2026
 ## Unsupervised learning tutorial
 
 GDS Short Course on Data Science for Physicists I
 8:00 am – 5:15 pm,
-Saturday March 15
+Saturday March 14
 
 Session MAR-SH01
 
-Anaheim Convention Center, 259A (Level 2)
+Denver Convention Center,  
+Meeting Room 601/603
 
 This tutorial aims to introduce unsupervised learning for use in materials informatics.
 
