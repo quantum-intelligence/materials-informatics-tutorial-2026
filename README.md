@@ -3,7 +3,7 @@
 
 GDS Short Course on Data Science for Physicists I
 8:00 am – 5:15 pm,
-Saturday March 15, 2026
+Saturday March 14, 2026
 
 Session MAR-SH01
 
